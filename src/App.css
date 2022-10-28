@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+
+.home{
+  width:90%;
+  max-width:40rem;
+  padding:3rem;
+  margin:2rem auto;
+  text-align:center;
+}
+
+.nav a {
+  text-decoration: none;
+  color:azure;
+}
+
+ul li{
+  list-style: none;
+}
+
+.nav a:hover,
+.nav a:active {
+  color:aqua;
+}
+
+.login{
+    width:90%;
+    max-width:40rem;
+    padding:3rem;
+    margin:2rem auto;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.button {
+  font:inherit;
+  border:1px solid plum;
+  background-color: blueviolet;
+  color:white;
+  cursor:pointer;
+  font-size:1.15rem;
+  border-radius:30px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+ /*Wallect connect to metamask css   */
+
+
+
+
