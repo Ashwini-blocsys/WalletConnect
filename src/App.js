@@ -8,6 +8,7 @@ import WalletTask from '../src/components/wallet/WalletTask';
 
 
 function App() {
+  
   return (
     <div className="App">
 
